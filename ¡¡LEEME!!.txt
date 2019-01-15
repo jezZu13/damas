@@ -1,0 +1,9 @@
+¡¡INDISPENSABLE!! --->	Incluir los ficheros .H (librerias) en el directorio "C:\TC\INCLUDE".
+
+No obligatorio --->	Incluir el fichero DAMAS.CPP (partida guardada) en el directorio "C:\TC\BIN".
+
+*---------------------------------------*
+*       Programa realizado por:         *
+*	MANUEL VICENTE ALMAGRO ARÉVALO  *
+*	JESUS ROJAS CABRERA             *
+*---------------------------------------*
